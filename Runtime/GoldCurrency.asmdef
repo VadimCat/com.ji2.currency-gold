@@ -1,0 +1,19 @@
+{
+    "name": "GoldCurrency",
+    "rootNamespace": "",
+    "references": [
+        "Currency",
+        "ReactivePropety",
+        "VContainer",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
