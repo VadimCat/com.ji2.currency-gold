@@ -3,6 +3,7 @@
     "rootNamespace": "",
     "references": [
         "Currency",
+        "Ji2.Saves",
         "ReactivePropety",
         "VContainer",
         "Unity.TextMeshPro"
